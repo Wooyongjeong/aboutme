@@ -1,0 +1,27 @@
+img {
+    border: 6px solid gray;
+    width: 240px;
+    height: 320px;
+}
+.main {
+    text-align: left;
+    padding: 20px 200px;
+}
+.main-div {
+    overflow: auto;
+    margin: 20px 0px;
+}
+.main-section {
+    display: inline;
+}
+.main-section > section {
+    float: left;
+}
+.main-text-section {
+    position: relative;
+    top: 75px;
+    left: 20%;
+}
+p {
+    line-height: 1.8;
+}
